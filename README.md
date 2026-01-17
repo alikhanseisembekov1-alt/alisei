@@ -1,4 +1,4 @@
-# alisei
+# Aniki
 
 **alisei** is a personal research and project space at the intersection of **science, philosophy, and building**.
 
