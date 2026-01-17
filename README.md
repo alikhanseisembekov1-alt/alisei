@@ -1,6 +1,6 @@
-# Aniki
+# Alsei
 
-**alisei** is a personal research and project space at the intersection of **science, philosophy, and building**.
+**Alsei** is a personal research and project space at the intersection of **science, philosophy, and building**.
 
 This repository serves as a living system for exploring how **intelligence emerges**, how it can be **measured and engineered**, and how it connects to **matter, computation, and humans**.
 
@@ -61,7 +61,7 @@ Not everything here is polished — that is intentional.
 > Build honestly.
 > Let structure emerge.
 
-alisei is a space for **alignment between thought and action**, where understanding and creation co-evolve.
+Alsei is a space for **alignment between thought and action**, where understanding and creation co-evolve.
 
 ---
 
